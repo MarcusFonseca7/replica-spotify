@@ -243,6 +243,7 @@ img {
   height: 45svh;
   background-size: cover;
   background-position-y: 20%;
+  background-position-x: center;
   background-image: linear-gradient(to bottom, var(--_shade), var(--_shade)),
     url(https://i.scdn.co/image/ab67618600001016909a162796dbc3629a1fadeb);
 }
